@@ -1,0 +1,3 @@
+label = " Build"
+command = "echo 'Building project...'"
+order = 10

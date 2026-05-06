@@ -1,0 +1,3 @@
+label = "Complete readme"
+command = "opencode run 'completar el README.md con informacion de la arquitectura del proyecto'"
+order = 1
